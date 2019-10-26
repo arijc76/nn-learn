@@ -1,2 +1,2 @@
 # nn-learn
-Codes while learning dl
+Codes while learning deep learning
